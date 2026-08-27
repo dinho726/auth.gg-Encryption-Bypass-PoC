@@ -1,0 +1,16 @@
+﻿# Build outputs
+csharp/client/harmony-ssl-hook/bin/
+csharp/client/harmony-ssl-hook/obj/
+csharp/client/packages/
+*.suo
+*.user
+*.userosscache
+.vs/
+
+# NuGet
+nuget.exe
+*.nupkg
+
+# OS
+Thumbs.db
+Desktop.ini
